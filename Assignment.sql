@@ -7,6 +7,7 @@ CREATE TABLE IF NOT EXISTS `Bajaj`(
   `Close_Price` DECIMAL(9, 2) NOT NULL
 );
 
+
 /* INSERT QUERY */
 INSERT INTO Bajaj(Date, Close_Price) 
 VALUES 
